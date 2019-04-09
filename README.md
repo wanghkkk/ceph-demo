@@ -2,4 +2,4 @@
 
 ### ceph luminous
 
-## [Ceph基础篇视频课](https://study.163.com/course/courseMain.htm?courseId=1006426003)
+## [Ceph基础篇视频课](https://edu.51cto.com/course/15982.html)
