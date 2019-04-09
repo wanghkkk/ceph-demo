@@ -39,7 +39,7 @@ ls -l *.keyring
 ceph-deploy admin c720181 c720182 c720183
 
 # 配置 osd
-for dev in "/dev/vda /dev/vdc /dev/vdd"
+for dev in /dev/vda /dev/vdc /dev/vd
 do 
   ceph-deploy disk zap c720181 $dev
   ceph-deploy osd create c720181 --data $dev
